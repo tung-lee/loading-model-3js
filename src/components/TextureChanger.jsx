@@ -8,7 +8,7 @@ function TextureChanger({ aiTexture }) {
             shadows
             camera={{
                 position: [8, 1.5, 8],
-                fov: 25
+                fov: 100
             }}
             gl={{ preserveDrawingBuffer: true }}
         >
